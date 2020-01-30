@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/mtflud/Desktop/sentry-react-native-1.2.2/library/libs/react-native-0.55.3.aar:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf67d4c8d3bbfd4bd16c389f1a89381f/jetified-react-native-0.55.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf67d4c8d3bbfd4bd16c389f1a89381f/jetified-react-native-0.55.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf67d4c8d3bbfd4bd16c389f1a89381f/jetified-react-native-0.55.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf67d4c8d3bbfd4bd16c389f1a89381f/jetified-react-native-0.55.3/jars/libs/infer-annotations-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
